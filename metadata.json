@@ -1,0 +1,5 @@
+{
+  "name": "Eccos Reserva",
+  "description": "Sistema de gestão de reservas de equipamentos (Chromebooks/iPads) com controle de acesso e disponibilidade.",
+  "requestFramePermissions": []
+}
